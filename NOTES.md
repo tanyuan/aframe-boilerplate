@@ -5,3 +5,9 @@
 ## Video
 
 Videosphere does not work on mobile phones (both iOS and Android)
+
+## Webcam
+
+Requires HTTPS and only works on Android. 
+
+
